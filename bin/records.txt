@@ -1,0 +1,2 @@
+stamina= 0 
+time= 1

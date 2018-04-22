@@ -1,0 +1,3 @@
+id=297
+name=Spengemann
+party=LIB

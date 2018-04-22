@@ -1,0 +1,3 @@
+id=302
+name=Strahl
+party=CPC

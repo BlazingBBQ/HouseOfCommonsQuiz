@@ -1,0 +1,3 @@
+id=12
+name=Arnold
+party=CPC
